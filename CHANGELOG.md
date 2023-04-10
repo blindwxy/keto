@@ -889,7 +889,7 @@ We are extremely happy to announce next-gen Ory Keto which implements
 Ory Keto is the first open source planet-scale authorization system built with
 cloud native technologies (Go, gRPC, newSQL) and architecture. It is also the
 first open source implementation of Google Zanzibar :tada:!
-
+123
 Many concepts developer by Google Zanzibar are implemented in Ory Keto already.
 Let's take a look!
 
